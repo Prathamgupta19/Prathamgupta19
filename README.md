@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello there! I am Pratham, and I love to create!
 
-<!--
-**Prathamgupta19/Prathamgupta19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A little bit about me:
+I am an Undergraduate researcher who loves to make projects. I'm intrigued by Robotics, Drones, Machine Learning, Electronics, and Communication.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pratham-gupta-b3b476204/)
+
+---
+
+## Skills and Expertise:
+- **Programming Languages:** Python, C, MATLAB, VHDL, Verilog  
+- **Frameworks:** Drone-Kit, SITL, ArduPilot, ROS, Mission-Planner  
+- **Tools:** Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn  
+- **Platforms:** Arduino, Gazebo, Linux, PixHawk  
+
+---
+
