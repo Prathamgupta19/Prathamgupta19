@@ -19,7 +19,12 @@ I am an Undergraduate researcher who loves to make projects. I'm intrigued by Ro
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
-## Skills and Expertise:
+
+  
+  ---
+  
+  
+  ## Skills and Expertise:
 - **Programming Languages:** Python, C, MATLAB, VHDL, Verilog  
 - **Frameworks:** Drone-Kit, SITL, ArduPilot, ROS, Mission-Planner  
 - **Tools:** Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn  
