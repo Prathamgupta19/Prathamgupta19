@@ -1,6 +1,6 @@
-# Hello there! I am Pratham, and I love to create!
+# "Hello, I'm Pratham, and I strive to turn ideas into impactful solutions."
 
-## A little bit about me:
+## Get to know me better.
 I am an Undergraduate researcher who loves to make projects. I'm intrigued by Robotics, Drones, Machine Learning, Electronics, and Communication.
 
 ---
